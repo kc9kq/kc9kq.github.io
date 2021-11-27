@@ -38,6 +38,7 @@ minima:
   hard_wrap: true
   header_pages:
     - meetings.md
+    - events.md
     - contact.md
     - about.md
   social_links:
