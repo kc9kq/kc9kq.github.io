@@ -11,14 +11,6 @@ Website built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages]
 
 Jekyll uses the [Markdown syntax](https://www.markdownguide.org/) and Ruby to generate blog sites.  GitHub Pages is very compatible with Jekyll and has it as its primary engine - using Ruby in the background to generate HTML based on the markdown entered.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+See this [introductory post about the engine](http://127.0.0.1:4000/jekyll/update/2021/11/18/welcome-to-jekyll.html) for instructions on how to add a post.  This must be done via Forking the repo to your personal domain, then submitting a pull request.
 
 [jekyll-organization]: https://github.com/jekyll
