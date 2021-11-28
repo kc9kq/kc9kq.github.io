@@ -4,7 +4,6 @@
 
 layout: home
 title: Home
-exclude: true
 ---
 ![Main](/assets/hvarc_image.jpg){: .image-left}
 
