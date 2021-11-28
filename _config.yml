@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,29 +19,28 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hidden Valleys Amateur Radio Club
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Hidden Valleys Amateur Radio Club meets on the second Tuesday of each month 
-  at the Grant County Community Service center in Lancaster WI. The meetings are 
+  The Hidden Valleys Amateur Radio Club meets on the second Tuesday of each month
+  at the Grant County Community Service center in Lancaster WI. The meetings are
   at 7:00 PM and anyone with an interest in amateur radio is welcome to attend.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: kc9kq
+facebook_username: HVARC
 
 # Build settings
 markdown: kramdown
 theme: minima
+header_pages:
+  - meetings.md
+  - events.md
+  - library.md
+  - contact.md
+  - about.md
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 minima:
-  hard_wrap: true
-  header_pages:
-    - meetings.md
-    - contact.md
-    - about.md
-  social_links:
-    - facebook: HVARC
 
 # Exclude from processing.
 # The following items will not be processed, by default.
