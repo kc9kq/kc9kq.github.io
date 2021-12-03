@@ -11,6 +11,6 @@ Website built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages]
 
 Jekyll uses the [Markdown syntax](https://www.markdownguide.org/) and Ruby to generate blog sites.  GitHub Pages is very compatible with Jekyll and has it as its primary engine - using Ruby in the background to generate HTML based on the markdown entered.
 
-See this [introductory post about the engine](/jekyll/update/2021/11/18/welcome-to-jekyll.html) for instructions on how to add a post.  This must be done via Forking the repo to your personal domain, then submitting a pull request.
+See this [introductory post about the engine](/jekyll/update/2021/11/19/welcome-to-jekyll.html) for instructions on how to add a post.  This must be done via Forking the repo to your personal domain, then submitting a pull request.
 
 [jekyll-organization]: https://github.com/jekyll
