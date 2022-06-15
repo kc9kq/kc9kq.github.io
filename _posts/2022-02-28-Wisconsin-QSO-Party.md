@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winter Field Day!"
+title:  "Wisconsin QSO Party!"
 date:   2022-02-08 19:20:34 -0600
 categories: Wisconsin QSO Party
 ---
