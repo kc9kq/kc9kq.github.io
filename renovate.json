@@ -1,5 +1,12 @@
 {
   "extends": [
     "config:base"
+  ],
+  "packageRules": [
+    {
+      "description": "Auto update github Pages",
+      "packagePatterns":["github-pages"],
+      "automerge": true
+    }
   ]
 }
