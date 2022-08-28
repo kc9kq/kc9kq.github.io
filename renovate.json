@@ -6,7 +6,8 @@
     {
       "description": "Auto update github Pages",
       "packagePatterns":["github-pages"],
-      "automerge": true
+      "automerge": true,
+      "requiredStatusChecks": null
     }
   ]
 }
