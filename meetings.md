@@ -6,7 +6,7 @@ permalink: /meetings/
 
 ## In-person
 
-The Hidden Valleys Amateur Radio Club meets on the second Tuesday of each month at the Grant County Community Service center in Lancaster WI. The meetings are at 7:00 PM and anyone with an interest (licensed or not) in amateur radio is welcome to attend.
+The Hidden Valleys Amateur Radio Club meets on the second Tuesday of each month at the Southwest Health hospital in Platteville WI. The meetings are at 7:00 PM and anyone with an interest (licensed or not) in amateur radio is welcome to attend.
 * July's meeting is the summer picnic - unless otherwise stated, to be held at the Platteville Museum
 * December's meeting is preempted by the annual Holiday Party.  Location and date decided one month prior.
 
