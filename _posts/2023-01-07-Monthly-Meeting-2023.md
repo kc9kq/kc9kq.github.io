@@ -11,7 +11,7 @@ Remember that dues are accepted any time. If you don't know if you paid yet, we 
 
 ~~Winter Field Day is to be in Prairie du Chien providing weather is not too brutal. We plan to operate 12pm-4pm.  Visit the field say site at [https://www.winterfieldday.com/](https://www.winterfieldday.com/)~~ Canceled due to cold weather
 
-Platteville Community Involvement Fair is at the Platteville Public Library. Open 10:30a-2:30p.
-Both events are on 1/28/23.
+Platteville Community Involvement Fair is at the [Platteville Public Library (Click for Google Maps location)](https://goo.gl/maps/rfFa3aoijYMAsPtP6). Open 10:30a-2:30p.
+Both events are on 1/28/2023.
 
 [Link to Location on Google Maps for interactive directions](https://goo.gl/maps/bwVa3ETrc9KoFssx9)
