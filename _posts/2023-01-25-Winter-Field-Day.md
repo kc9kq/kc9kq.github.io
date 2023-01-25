@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Winter Field Day Canceled"
-date:   2023-01-07 22:00:00 -0600
+date:   2023-01-25 15:00:00 -0600
 categories: Winter Field Day
 ---
 
