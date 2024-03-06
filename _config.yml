@@ -34,6 +34,7 @@ theme: minima
 header_pages:
   - meetings.md
   - events.md
+  - hamfest.md
   - library.md
   - contact.md
   - about.md
