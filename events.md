@@ -15,4 +15,4 @@ West Allis Radio Amateur Club hosts this event annually on the second weekend of
 
 ## Hamfests and Conventions
 
-Nearby clubs hold conventions and festivals which allow fellow hams to reach out to each other. [List of hamfests and conventions](http://www.arrl.org/hamfests/search/page:1/Location.zip:53818/Location.area:250/model:Event)
+Nearby clubs hold conventions and festivals which allow fellow hams to reach out to each other. [List of hamfests and conventions](http://www.arrl.org/hamfests/search/page:1/Location.zip:53818/Location.area:250/model:Event).  This include's [HVARC's own hamfest](/hamfest/)
