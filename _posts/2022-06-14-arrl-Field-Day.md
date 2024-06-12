@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Field Day!"
+title:  "Field Day! (2022)"
 date:   2022-06-14 19:00:00 -0500
-categories: Parks on the Air
+categories: Field Day
 ---
 
 Field Day be held worldwide June 25-26, 2022 on the air!  Locally, HVARC will participate in activities at TBD.
