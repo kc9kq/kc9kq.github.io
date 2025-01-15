@@ -12,8 +12,8 @@ Platteville, WI 53818
 
 ## Officers
 Call sign in parenthesis
-- President: Kieth Amdahl (KE1THA)
-- Vice President: Alvin Bontreger (KC9MCC)
+- President: Alvin Bontreger (KC9MCC)
+- Vice President: 
 - Secretary: Justin Harding (KC4QFE)
 - Treasurer: Scott Onson (KD9GBJ)
 - Directors:
