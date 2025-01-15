@@ -17,9 +17,9 @@ Call sign in parenthesis
 - Secretary: Justin Harding (KC4QFE)
 - Treasurer: Scott Onson (KD9GBJ)
 - Directors:
-  - Dave Weber (KC9YEL)
-  - Dave Nix (W9FAA)
-  - Kent Scheuerell (K9ZMU)
+  - Keith Amdahl (KE1THA)
+  - Mark Krolick (N0WLU)
+  - Chuck Richardson (WD9CPL)
 
 ## Dues
 
