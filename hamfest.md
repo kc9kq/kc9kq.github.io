@@ -4,4 +4,4 @@ title: HVARC Hamfest
 permalink: /hamfest/
 ---
 
-![Hamfest 2024](<../images/HAMFEST_2024 26Feb24-1_1.png>)
+![Hamfest 2025](<../images/HAMFEST 2025 02Mar25-1_1.png>)
