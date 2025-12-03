@@ -1,13 +1,15 @@
 {
   "extends": [
-    "config:base"
+    "config:recommended"
   ],
   "packageRules": [
     {
       "description": "Auto update github Pages",
-      "packagePatterns":["github-pages"],
       "automerge": true,
-      "requiredStatusChecks": null
+      "ignoreTests": true,
+      "matchPackageNames": [
+        "/github-pages/"
+      ]
     }
   ]
 }
