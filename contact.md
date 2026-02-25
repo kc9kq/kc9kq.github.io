@@ -12,14 +12,14 @@ Platteville, WI 53818
 
 ## Officers
 Call sign in parenthesis
-- President: Alvin Bontreger (KC9MCC)
-- Vice President: 
+- President: Chuck Richardson (WD9CPL)
+- Vice President: Larry Pink (KC9CSQ)
 - Secretary: Justin Harding (KC4QFE)
 - Treasurer: Scott Onson (KD9GBJ)
 - Directors:
   - Keith Amdahl (KE1THA)
   - Mark Krolick (N0WLU)
-  - Chuck Richardson (WD9CPL)
+  - Duane Stephenson (KE9CJJ)
 
 ## Dues
 
