@@ -6,6 +6,8 @@ permalink: /hamfest/
 
 ## {{name}}
 
+3rd Annual Hidden Valleys Amateur Radio Club FREE HAMFEST
+
 ### WHERE
 
 Grant County Fairgrounds<br>
