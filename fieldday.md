@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HVARC/GRARC Field Day
+title: HVARC-GRARC Field Day
 permalink: /fieldday/
 ---
 
