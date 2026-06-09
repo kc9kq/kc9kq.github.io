@@ -4,7 +4,7 @@ title: Field Day
 permalink: /fieldday/
 ---
 
-## {{name}}
+## Field Day 2026 with HVARC and GRARC
 
 GRARC and HVARC team together to celebrate Field Day
 

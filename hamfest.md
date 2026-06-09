@@ -4,7 +4,7 @@ title: HVARC Hamfest
 permalink: /hamfest/
 ---
 
-## {{name}}
+## FREE HAMFEST
 
 3rd Annual Hidden Valleys Amateur Radio Club FREE HAMFEST
 
