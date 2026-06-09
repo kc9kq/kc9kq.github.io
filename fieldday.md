@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HVARC-GRARC Field Day
+title: Field Day
 permalink: /fieldday/
 ---
 
@@ -21,7 +21,7 @@ Lancaster, Wisconsin 53813
 Clubs start setting up at 9:00 AM
 
 ### Details
-The folks at Great River Amateur Radio Club have provided<span style="color:red">[details here](https://www.w0dbq.org/field-day-2026)</span>.
+The folks at Great River Amateur Radio Club have provided<span style="color:red"> [details here](https://www.w0dbq.org/field-day-2026)</span>.
 
 In brief, Stations will be set up to operate on multiple bands across the spectrum in CW, Phone and FT8.  Food will be available with coffee and donuts at setup.
 
