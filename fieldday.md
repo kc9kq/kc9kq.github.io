@@ -26,5 +26,5 @@ The folks at Great River Amateur Radio Club have provided<span style="color:red"
 In brief, Stations will be set up to operate on multiple bands across the spectrum in CW, Phone and FT8.  Food will be available with coffee and donuts at setup.
 
 ![FieldDayImage](../images/FieldDay2026.jpg)
-(Image courtesy of GRARC)
+(Image courtesy of Robert Smith, K0RMS)
 ![Location](<../images/location.png>)
