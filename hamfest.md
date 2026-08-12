@@ -17,16 +17,19 @@ Lancaster, Wisconsin 53813
 
 ### When
 17 October 2026<br>
-8:00 a.m to 2:00 pm
+8:00 a.m to 1:00 pm
 
 ### VE Testing
 VE Testing for new license candidates will take place <span style="color:red">__at 10:00 AM__</span>.
 
 ### Details
 
+#### FREE DRAWING for DOOR PRIZES
+
 * Free Parking
 * Free Table for sellers
 * Free Admission
+* Free Coffee and Donuts
 * Refreshments and Lunch available
 * Pre-register at [HVARChamfest@gmail.com](mailto:HVARChamfest@gmail.com) (Please provide your name and callsign)
 * Talk-in 146.52 MHz
