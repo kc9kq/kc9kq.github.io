@@ -1,4 +1,7 @@
 # kc9kq.github.io
+
+**This site repo is decommissioned - use the new Astro one now**
+
 Alpha HVARC Website
 
 This is a "vanilla" version of the proposed HVARC update to GitHub Pages.
